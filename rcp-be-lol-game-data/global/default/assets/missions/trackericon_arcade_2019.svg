@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cdbe91;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="arcade2019_logoMark" class="cls-1" d="M14,12.667V2L0,18H18l-1.862-2.794H6l5.5-6.349v3.81H14Z"/>
+</svg>
